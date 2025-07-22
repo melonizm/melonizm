@@ -15,7 +15,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/melih-kurtgöz-a3b452320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melih kurtgoz" height="30" width="40" /></a>
-<a href="https://fb.com/melih.kurtgoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="melih.kurtgoz" height="30" width="40" /></a>
 <a href="https://www.instagram.com/melih.kurtgoz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melih.kurtgoz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@MelihKurtgöz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="melihkurtgöz" height="30" width="40" /></a>
 </p>
