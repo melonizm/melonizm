@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Melih</h1>
+<h1 align="center">Hi  I'm Melih</h1>
 <h3 align="center">I am an intern at Totalsoft and the software captain of the Cryo Team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melonizm&label=Profile%20views&color=0e75b6&style=flat" alt="melonizm" /> </p>
